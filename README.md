@@ -14,6 +14,6 @@ List of tasks that I need to do for a new dual boot linux setup
 - [ ] Sign into Social Media's(Google, Facbeook, Twitter, etc)
 - [ ] Setup Firefox Profiles (csesoc) - reorder with [this](https://github.com/mozilla/multi-account-containers/issues/1208)
 - [ ] Switch shell to zsh
-- [ ] Install Nerd Font
+- [ ] Install Nerd Font (see [here](https://gist.github.com/matthewjberger/7dd7e079f282f8138a9dc3b045ebefa0)
 - [ ] ohmyzsh+p10k
 - [ ] VsCode + NeoVim Download (config is later)
