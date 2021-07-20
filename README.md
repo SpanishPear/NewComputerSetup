@@ -12,7 +12,7 @@ List of tasks that I need to do for a new dual boot linux setup
 - [ ] Sign into Firefox
 - [ ] Sign into LastPass Extension
 - [ ] Sign into Social Media's(Google, Facbeook, Twitter, etc)
-- [ ] Setup Firefox Profiles (csesoc)
+- [ ] Setup Firefox Profiles (csesoc) - reorder with [this](https://github.com/mozilla/multi-account-containers/issues/1208)
 - [ ] Switch shell to zsh
 - [ ] Install Nerd Font
 - [ ] ohmyzsh+p10k
